@@ -1,5 +1,5 @@
 # The `pycolab` game engine.
-Gandharv Patil-260727335
+Gandharv Patil- 260727335 <br />
 Rehan Siraj - 
 ## Dyna Q with Pycolab
 
