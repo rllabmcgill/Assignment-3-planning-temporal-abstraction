@@ -1,6 +1,6 @@
-# The `pycolab` game engine.
+# DynaQ with Pycolab game engine.
 Gandharv Patil - 260727335 <br />
-Rehan Siraj - 260752605<br/>
+Rehan Seraj - 260752605<br/>
 ## Dyna Q with Pycolab
 
 The script reproduces example 8.2 and 8.3 of Sutton and Barto, where the environments are made using pycolab
